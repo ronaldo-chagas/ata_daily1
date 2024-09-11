@@ -1,8 +1,8 @@
 dia 11/09/24
-	luciano
-	ronaldo
-	vinicius augusto
-	sidney
+	Luciano
+	Ronaldo
+	Vinicius augusto
+	Sidney
 -----------------------------------------
 	
 	Começo do backend
